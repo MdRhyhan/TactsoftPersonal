@@ -40,3 +40,17 @@ D:\all ang\Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\refint\Tactsoft.Core.
 D:\all ang\Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.pdb
 D:\all ang\Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.genruntimeconfig.cache
 D:\all ang\Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\ref\Tactsoft.Core.dll
+D:\New folder\TactsoftPersonal\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.deps.json
+D:\New folder\TactsoftPersonal\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.runtimeconfig.json
+D:\New folder\TactsoftPersonal\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.dll
+D:\New folder\TactsoftPersonal\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.pdb
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.AssemblyReference.cache
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfoInputs.cache
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfo.cs
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.CoreCompileInputs.cache
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.dll
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\refint\Tactsoft.Core.dll
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.pdb
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.genruntimeconfig.cache
+D:\New folder\TactsoftPersonal\Tactsoft.Core\obj\Debug\net6.0\ref\Tactsoft.Core.dll
