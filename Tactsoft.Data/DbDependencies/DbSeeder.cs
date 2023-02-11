@@ -369,6 +369,20 @@ namespace Tactsoft.Data.DbDependencies
                 CreatedBy = 1,
                 CreatedDateUtc = DateTime.ParseExact("2023-02-01", "yyyy-MM-dd", null)
             });
+            modelBuilder.Entity<Mobile>().HasData(new Mobile
+            {
+                Id = 1,
+                BrandName = "Samsung",
+                Model = "A71",
+                Price = 29000,
+                RamRom = "8 GB & 128 GB",
+                Black = true,
+                Blue = true,
+                Red = true,
+                Picture = "avatar2.png",
+                CreatedBy = 1,
+                CreatedDateUtc = DateTime.ParseExact("2023-02-01", "yyyy-MM-dd", null)
+            });
         }
 
     }

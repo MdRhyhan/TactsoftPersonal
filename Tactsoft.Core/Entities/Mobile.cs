@@ -12,7 +12,7 @@ namespace Tactsoft.Core.Entities
     public class Mobile:BaseEntity
     {
         [Required]
-        [DisplayName("Brand")]
+        [DisplayName("Brand Name")]
         public string BrandName { get; set; }
         [Required]
         public string Model { get; set; }
@@ -23,7 +23,8 @@ namespace Tactsoft.Core.Entities
         public string RamRom { get; set; }
 
         public Boolean Black { get; set; }
-        public Boolean blue { get; set; }
+        public Boolean Blue { get; set; }
         public Boolean Red { get; set; }
+        public string Picture { get; set; }
     }
 }

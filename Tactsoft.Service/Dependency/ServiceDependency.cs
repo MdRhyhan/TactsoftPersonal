@@ -17,6 +17,7 @@ namespace Tactsoft.Service.Dependency
             services.AddScoped<IStudentService, StudentService>();
             services.AddScoped<IDepartmentService, DepartmentService>();
             services.AddScoped<IRegistrationService, RegistrationService>();
+            services.AddScoped<IMobileService, MobileService>();
 
 
 
