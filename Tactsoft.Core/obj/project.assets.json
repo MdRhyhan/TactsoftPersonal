@@ -2384,19 +2384,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rhyhan\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj",
       "projectName": "Tactsoft.Core",
-      "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj",
-      "packagesPath": "C:\\Users\\Rhyhan\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\obj\\",
+      "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Rhyhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2404,6 +2409,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\TactsoftPersonal\\Tactsoft\\Tactsoft.csproj": {}
+    "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft\\Tactsoft.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj": {
+    "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj",
         "projectName": "Tactsoft.Core",
-        "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj",
-        "packagesPath": "C:\\Users\\Rhyhan\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rhyhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -95,17 +100,21 @@
         }
       }
     },
-    "D:\\New folder\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj": {
+    "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj",
         "projectName": "Tactsoft.Data",
-        "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj",
-        "packagesPath": "C:\\Users\\Rhyhan\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Data\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rhyhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -113,14 +122,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj": {
-                "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj"
+              "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj"
               }
             }
           }
@@ -176,17 +186,21 @@
         }
       }
     },
-    "D:\\New folder\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj": {
+    "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj",
         "projectName": "Tactsoft.Service",
-        "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj",
-        "packagesPath": "C:\\Users\\Rhyhan\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Service\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rhyhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -194,17 +208,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj": {
-                "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj"
+              "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj"
               },
-              "D:\\New folder\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj": {
-                "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj"
+              "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj"
               }
             }
           }
@@ -264,17 +279,21 @@
         }
       }
     },
-    "D:\\New folder\\TactsoftPersonal\\Tactsoft\\Tactsoft.csproj": {
+    "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft\\Tactsoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\TactsoftPersonal\\Tactsoft\\Tactsoft.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft\\Tactsoft.csproj",
         "projectName": "Tactsoft",
-        "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft\\Tactsoft.csproj",
-        "packagesPath": "C:\\Users\\Rhyhan\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft\\Tactsoft.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rhyhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -282,20 +301,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj": {
-                "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj"
+              "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Core\\Tactsoft.Core.csproj"
               },
-              "D:\\New folder\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj": {
-                "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj"
+              "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Data\\Tactsoft.Data.csproj"
               },
-              "D:\\New folder\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj": {
-                "projectPath": "D:\\New folder\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj"
+              "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\TactsoftPersonal\\Tactsoft.Service\\Tactsoft.Service.csproj"
               }
             }
           }

@@ -567,6 +567,9 @@ namespace Tactsoft.Data.Migrations
                     b.Property<bool>("Black")
                         .HasColumnType("bit");
 
+                    b.Property<bool>("Blue")
+                        .HasColumnType("bit");
+
                     b.Property<string>("BrandName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -579,6 +582,9 @@ namespace Tactsoft.Data.Migrations
 
                     b.Property<string>("Model")
                         .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Picture")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<double>("Price")
@@ -597,12 +603,25 @@ namespace Tactsoft.Data.Migrations
                     b.Property<DateTimeOffset?>("UpdatedDateUtc")
                         .HasColumnType("datetimeoffset");
 
-                    b.Property<bool>("blue")
-                        .HasColumnType("bit");
-
                     b.HasKey("Id");
 
                     b.ToTable("Mobiles");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1L,
+                            Black = true,
+                            Blue = true,
+                            BrandName = "Samsung",
+                            CreatedBy = 1L,
+                            CreatedDateUtc = new DateTimeOffset(new DateTime(2023, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 6, 0, 0, 0)),
+                            Model = "A71",
+                            Picture = "avatar2.png",
+                            Price = 29000.0,
+                            RamRom = "8 GB & 128 GB",
+                            Red = true
+                        });
                 });
 
             modelBuilder.Entity("Tactsoft.Core.Entities.Registration", b =>

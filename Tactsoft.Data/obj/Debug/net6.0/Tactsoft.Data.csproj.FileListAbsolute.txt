@@ -66,3 +66,20 @@ D:\New folder\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\refint\Tactsoft.Da
 D:\New folder\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.pdb
 D:\New folder\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.genruntimeconfig.cache
 D:\New folder\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\ref\Tactsoft.Data.dll
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\bin\Debug\net6.0\Tactsoft.Data.deps.json
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\bin\Debug\net6.0\Tactsoft.Data.runtimeconfig.json
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\bin\Debug\net6.0\Tactsoft.Data.dll
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\bin\Debug\net6.0\Tactsoft.Data.pdb
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.csproj.CopyComplete
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.dll
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\refint\Tactsoft.Data.dll
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.pdb
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\Tactsoft.Data.genruntimeconfig.cache
+C:\Users\User\source\repos\TactsoftPersonal\Tactsoft.Data\obj\Debug\net6.0\ref\Tactsoft.Data.dll
